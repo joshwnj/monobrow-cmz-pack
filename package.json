@@ -1,0 +1,22 @@
+{
+  "name": "monobrow-cmz-pack",
+  "version": "1.0.0",
+  "description": "Monobrow config pack with some common cmz dependencies",
+  "main": "index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "monobrow -c index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joshwnj",
+  "license": "MIT",
+  "dependencies": {
+    "cmz": "^0.7.0"
+  },
+  "devDependencies": {
+    "monobrow": "^2.1.0"
+  }
+}
