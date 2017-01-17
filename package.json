@@ -14,7 +14,7 @@
   "author": "joshwnj",
   "license": "MIT",
   "dependencies": {
-    "cmz": "^0.7.0"
+    "cmz": "^0.8.0"
   },
   "devDependencies": {
     "monobrow": "^2.1.0"
