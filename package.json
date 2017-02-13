@@ -17,6 +17,6 @@
     "cmz": "^0.9.0"
   },
   "devDependencies": {
-    "monobrow": "^2.4.0"
+    "monobrow": "^2.6.0"
   }
 }
