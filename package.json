@@ -1,6 +1,6 @@
 {
   "name": "monobrow-cmz-pack",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "description": "Monobrow config pack with some common cmz dependencies",
   "main": "index.js",
   "files": [
