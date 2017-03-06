@@ -7,8 +7,10 @@
     "dist"
   ],
   "scripts": {
+    "clean": "rm -f .bcache.json && rm -rf dist",
     "build": "monobrow -c index.js",
-    "test": "npm run build"
+    "test": "npm run build",
+    "prepublish": "npm run clean && npm run build"
   },
   "keywords": [],
   "author": "joshwnj",
